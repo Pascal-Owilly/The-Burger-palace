@@ -89,10 +89,17 @@
     color: black;
 }
 span {
-    color: #f19201;
+    color: rgb(206, 206, 72);
 }
 .fa {
-    color: #f19201;
+    color: ;
+    background-color: #E1EBE6;
+    border-radius: 10px;
+    float: right;
+    margin-right: 40px;
+    font-size: 60px;
+    margin-top: -55px;  
+    width: 100px; 
 }
 
 .container {
@@ -137,6 +144,7 @@ span {
 
 .container-2 {
     display: flex;
+    background-color: #E1EBE6;
     margin-top: 100px;
     text-align: center;
     margin: 10%;
@@ -167,4 +175,48 @@ span {
     padding: 30px;
     border-radius: 20px;
     margin-right: 40px;
+}
+
+.menu-items {
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-decoration: underline 10px  orange;
+}
+
+.container-3{
+    display: flex;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    line-height: 1.7em;
+    font-size: 20px;
+}
+.article-6 {
+    flex: 1;
+    border: 2px solid white;
+    border-radius: 40px;
+    box-shadow: 4px 3px 3px 2px grey;
+}
+.article-7 {
+    flex: 1;
+    margin-left: 40px;
+    border: 2px solid white;
+    border-radius: 40px;
+    box-shadow: 4px 3px 3px 2px grey;
+}
+.article-8 {
+    flex: 1;
+    margin-left: 50px;
+    border: 2px solid white;
+    border-radius: 40px;
+    box-shadow: 4px 3px 3px 2px grey;
+}
+
+h3 {
+    text-align: left;
+    font-size: 25px;
+    line-height: 3em;
+    margin-left: 10px;
 }
