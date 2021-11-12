@@ -1,4 +1,8 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    
+}
  .nav-links li {
      flex: 1;
         display: inline-block;
@@ -74,14 +78,15 @@
             background-color:rgba,136,169,0.7;
 }
 
-.btn {
-    font-size: 35px;
+.logo-text {
+    font-family: Lobster;
+    font-size: 40px;
     font-weight: 800;
     text-decoration: none;
     float: left;
-    margin-left: -255px;
+    margin-left: -270px;
+    margin-top: 10px;
     color: black;
-    font-style: italic;
 }
 span {
     color: #f19201;
@@ -95,10 +100,20 @@ span {
 }
 .article-1 {
     flex: 1;
+    font-family: sans-serif;
     font-size: 25px;
     margin-top: 10%;
     margin-left: 30px;
+    padding-left: 9%;
 }
+.article-1 > p {
+    color: grey;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
 .article-2 {
     flex: 1;
     float: right;
@@ -108,10 +123,48 @@ span {
 }
 .article-1-img {
     float: right;
-    margin-right: 10px;
+    margin-right: -185px;
     margin-top: 150px;
     padding-bottom: 9%;
-    
-
 }
 
+.btn {
+     border-radius: 10%;
+     font-size: 20px;
+     width: 200px;
+     height: 70px;
+}
+
+.container-2 {
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    margin: 10%;
+}
+
+.article-3 {
+    flex: 1;
+    height: 250px;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 40px;
+}
+.article-4 {
+    flex: 1;
+    height: 350px;
+    margin-top: -50px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: 40px;
+}
+.article-5 {
+    flex: 1;
+    height: 250px;
+    height: 250pxpx;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 40px;
+}
