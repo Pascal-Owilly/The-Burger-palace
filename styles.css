@@ -92,14 +92,9 @@ span {
     color: rgb(206, 206, 72);
 }
 .fa {
-    color: ;
-    background-color: #E1EBE6;
-    border-radius: 10px;
-    float: right;
-    margin-right: 40px;
-    font-size: 60px;
-    margin-top: -55px;  
-    width: 100px; 
+    color: black;
+    font-size: 25px;
+    width: 40px; 
 }
 
 .container {
@@ -322,6 +317,36 @@ ul {
     position: absolute;
     margin-top: -8px;
     border: none;
+}
+
+.footer-2-container {
+    display: flex;
+    font-family: sans-serif;
+    background-color: aliceblue;
+    height: 70px;
+    margin-top: -50px;
+}
+
+.footer-2 {
+    flex: 1;
+    font-size: 26px;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.glyphicons {
+  flex: 1;
+  text-align: center;
+  margin-top: 20px;
+}
+.designer {
+    flex: 1;
+    font-size: 26px;
+    font-weight: 500;
+    text-align: right;
+    margin-right: 15px;
+    margin-top: 20px;
 }
 
 
