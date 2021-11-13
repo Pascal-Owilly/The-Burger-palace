@@ -306,6 +306,10 @@ font-weight: 800;
       background-color: #f19201;
   }
 
+  .p-logo {
+      font-family: lobster;
+  }
+
 .footer {
     display: flex;
 }
@@ -332,6 +336,10 @@ ul {
     margin-top: -25px;
     font-size: large;
     font-weight: 500;
+}
+
+.footer-links h3 {
+    margin-left: 40px;
 }
 
 .form-footer {
