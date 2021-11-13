@@ -291,6 +291,27 @@ ul {
     font-weight: 500;
 }
 
+.form-footer {
+    margin-top: 60px;
+    font-size: 30px;
+    font-family: sans-serif;
+    height: 50px;
+}
+.form-rows{
+    font-size: 30px;
+    font-family: sans-serif;
+    height: 50px;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+    position: fixex;
+}
+.submit-btn {
+    background-color: #f19201;
+    height: 50px;
+    padding-left: 100px;
+}
+
 
 
 
