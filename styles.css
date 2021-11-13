@@ -274,9 +274,6 @@ font-weight: 800;
     line-height: 1.6em;
 }
 
-footer h3 {
-
-}
 
 ul > li {
     flex: 1;
@@ -292,25 +289,42 @@ ul {
 }
 
 .form-footer {
-    margin-top: 60px;
+    margin-top: 20px;
     font-size: 30px;
     font-family: sans-serif;
     height: 50px;
+    margin-right: 150px;
 }
+
+
 .form-rows{
-    font-size: 30px;
+    font-size: 25px;
     font-family: sans-serif;
     height: 50px;
     border-radius: 15px;
     text-align: center;
     margin-right: 10px;
     position: fixex;
+    margin-top: -10px;
+    border: 1px solid grey;
+    text-align: left;
 }
 .submit-btn {
-    background-color: #f19201;
-    height: 50px;
-    padding-left: 100px;
+    background-color: rgb(206, 206, 72);
+    color: white;
+    height: 52px;
+    padding: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: -35px;
+    position: absolute;
+    margin-top: -8px;
+    border: none;
 }
+
+
 
 
 
