@@ -259,8 +259,37 @@ font-weight: 800;
     margin-top: -100px;
     
 }
+.footer {
+    display: flex;
+}
+.footer-l-text {
+    padding-top: 2%;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: lobster;
+}
+.footer-links {
+    flex: 1;
+    margin-left: 150px;
+    line-height: 1.6em;
+}
 
+footer h3 {
 
+}
+
+ul > li {
+    flex: 1;
+    list-style-type: none;
+    padding-left: 20px;
+    line-height: 1.7em;
+}
+
+ul {
+    margin-top: -25px;
+    font-size: large;
+    font-weight: 500;
+}
 
 
 
