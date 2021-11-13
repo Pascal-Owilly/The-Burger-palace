@@ -233,13 +233,34 @@ h3 {
 }
 .decker {
 flex: 2;
-margin-top: 70px;
-margin-left: 50px;
+margin-top: 100px;
+margin-left: 5px;
 font-size: 37px;
 font-weight: 800;
-
-
 }
+
+.pagnition {
+    font-size: 100px;
+    margin-top: -50px;
+    padding-bottom: 30px;
+    color: #f19201;
+}
+
+.dot {
+    margin-top: 6px;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    margin-left: 42px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  #next {
+      background-color: #f19201;
+  }
+
 .decker-img-1 {
     flex: 1;
     margin-right: 100px;
