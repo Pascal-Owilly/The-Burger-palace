@@ -13,8 +13,8 @@ There are no known bugs yet but should you come across any, please feel free to 
 ## Support and contact details
 Here is my email address *pascalouma54@gmail.com*. please feel free to contact me incase you come across anything that you want addressed
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) 2021 **Pascal Ouma owilly & MoringA School**
+*Determine the license under which this application can be used.  See below for more details on licensing.}*
+Copyright (c) 2021 **Pascal Ouma owilly & Moringa School**
 
 License!
 Screenshot from 2021-11-07 22-08-38 Screenshot from 2021-11-07 22-08-45 Screenshot from 2021-11-07 22-08-56 Screenshot from 2021-11-07 22-09-01 Screenshot from 2021-11-07 22-09-05
