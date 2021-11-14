@@ -54,8 +54,14 @@
  }
 
  .active {
-     text-decoration: underline orange;
+     text-decoration: underline rgb(3, 3, 2);
  }
+
+ .active-1 {
+    text-decoration: underline 7px  orange;
+ }
+
+ 
         
         .nav-links li a {
         transition: all 0.2s ease 0s;
@@ -199,6 +205,8 @@ span {
     text-decoration: underline 10px  orange;
 }
 
+
+
 .container-3{
     display: flex;
     text-align: center;
@@ -282,7 +290,7 @@ font-weight: 800;
     color: white;
     transform: rotate(30deg);
     float: right;
-    width: 35%;
+    width: 30%;
 }
 
 .pagination-2 {
