@@ -138,6 +138,10 @@
             background-color:rgba,136,169,0.7;
 }
 
+.top-logo {
+    margin-top: 40px;
+}
+
 .logo-text {
     font-family: Lobster;
     font-size: 40px;
@@ -406,7 +410,8 @@ font-weight: 800;
 
   .p-logo {
       font-family: lobster;
-  }
+
+ }
 
 .footer {
     display: flex;
