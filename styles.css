@@ -1,6 +1,11 @@
 
 * {
     font-family: sans-serif;
+    
+}
+body{
+    width: 100%;
+
 }
 
  /* .nav-links li {
@@ -25,11 +30,14 @@
  margin-top: 110px;
  }
 
-.logo-text1 {
+blockquote {
     font-family: lobster;
     font-weight: 800;
     font-size: 40px;
     display: inline;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -2px;
     
 }
        
